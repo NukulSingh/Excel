@@ -1,0 +1,32 @@
+Student Database & Fee Receipt System
+Overview
+This project provides a structured Excel workbook for managing student records and fee receipts at NKS Coding Area.
+It helps track student enrollment, course fees, monthly payments, and generate official receipts.
+
+Contents
+- Students Database
+- Registration number
+- Student & guardian details
+- Course name and fees
+- Monthly fee tracking (April–March)
+- Received and remaining fees
+- Fee Receipt Template
+- Registration number
+- Student & guardian details
+- Course and fee information
+- Paid amount & month of payment
+- Remaining balance
+- Amount in words
+- Signature field
+
+Usage
+- Open Copilot.xlsx in Microsoft Excel.
+- Enter student details in the Students Database sheet.
+- Update monthly fee records as payments are received.
+- Use the Fee Receipt sheet to generate receipts for students.
+
+Features
+- Centralized student record management
+- Monthly fee tracking across the academic year
+- Professional receipt format with amount in words
+- Easy customization for new students and courses
